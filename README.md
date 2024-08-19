@@ -8,7 +8,7 @@
 - **Fake Server:** Simulates server interactions using POST and DELETE methods for testing.
 - **Data Handling:** Manages and stores data in URLs, including setting, retrieving, and navigating URLs.
 - **Protected Routes:** Redirects users from unauthorized URLs with protected routes.
-- **React Hooks & Context:** Utilizes `useContext` and React Router DOM for context management and code cleanup.
+- **React Hooks & Context:** Utilizes `Context` and React Router DOM for context management and code cleanup.
 - **Map Integration:** Integrates a map API to track and display user locations.
 - **Vite Benefits:** Uses Vite for fast build times and an improved development workflow.
 
@@ -18,12 +18,12 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Balmoorthy/WorldWise-Tracker.git
+   git clone https://github.com/Balmoorthy/travel-tracker.git
 
 2. **Navigate to the Project Directory:**
 
    ```bash
-   cd worldwise-tracker
+   cd travel-tracker
 
 3. **Install Dependencies:**
 
