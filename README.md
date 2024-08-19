@@ -19,3 +19,27 @@ To get started with this project, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Balmoorthy/WorldWise-Tracker.git
+
+2. **Navigate to the Project Directory:**
+
+   ```bash
+   cd worldwise-tracker
+
+3. **Install Dependencies:**
+
+   ```bash
+   npm install
+   
+4. **Run fake server:**
+  Open a new terminal window run:
+
+   ```bash
+   npm run server
+
+The fake server will start at http://localhost:9000/cities.
+
+5. **Run the development server:**
+
+   ```bash
+   npm run dev
+Open your browser and go to http://localhost:5173 to view the application.
