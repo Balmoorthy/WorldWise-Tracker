@@ -14,7 +14,7 @@
     },
     {
       "cityName": "Abu Dhabi",
-      "country": "UAE",
+      "country": "United Arab Emirates (the)",
       "emoji": "🇦🇪",
       "date": "2027-07-15T08:22:53.976Z",
       "notes": "",
@@ -23,6 +23,54 @@
         "lng": 54.6545345
       },
       "id": "17806751"
+    },
+    {
+      "id": "c962",
+      "cityName": "Sankarankovil",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-08-23T09:57:46.939Z",
+      "notes": "",
+      "position": {
+        "lat": "9.145469046285367",
+        "lng": "77.61841140437039"
+      }
+    },
+    {
+      "id": "faeb",
+      "cityName": "Thoothukudi",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-08-22T09:58:06.000Z",
+      "notes": "",
+      "position": {
+        "lat": "8.776524922765153",
+        "lng": "78.12101688165707"
+      }
+    },
+    {
+      "id": "f331",
+      "cityName": "Abu Dhabi",
+      "country": "United Arab Emirates (the)",
+      "emoji": "🇦🇪",
+      "date": "2024-08-29T09:58:33.000Z",
+      "notes": "",
+      "position": {
+        "lat": "24.42839170484185",
+        "lng": "54.415290254516876"
+      }
+    },
+    {
+      "id": "44d8",
+      "cityName": "Dubai",
+      "country": "United Arab Emirates (the)",
+      "emoji": "🇦🇪",
+      "date": "2024-08-23T09:58:40.575Z",
+      "notes": "",
+      "position": {
+        "lat": "24.958649767167984",
+        "lng": "55.051096913945614"
+      }
     }
   ]
 }
