@@ -37,30 +37,6 @@
       }
     },
     {
-      "id": "faeb",
-      "cityName": "Thoothukudi",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2024-08-22T09:58:06.000Z",
-      "notes": "",
-      "position": {
-        "lat": "8.776524922765153",
-        "lng": "78.12101688165707"
-      }
-    },
-    {
-      "id": "f331",
-      "cityName": "Abu Dhabi",
-      "country": "United Arab Emirates (the)",
-      "emoji": "🇦🇪",
-      "date": "2024-08-29T09:58:33.000Z",
-      "notes": "",
-      "position": {
-        "lat": "24.42839170484185",
-        "lng": "54.415290254516876"
-      }
-    },
-    {
       "id": "44d8",
       "cityName": "Dubai",
       "country": "United Arab Emirates (the)",
